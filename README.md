@@ -47,7 +47,7 @@ LDA is deeply rooted in several areas of mathematics:
 - Constrained optimization problems
 
 
-## 💻 Role of Numerical Linear Algebra
+## Role of Numerical Linear Algebra
 
 In practice, solving LDA relies heavily on **numerical linear algebra techniques**:
 
