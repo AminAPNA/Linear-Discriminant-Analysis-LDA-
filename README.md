@@ -78,5 +78,8 @@ In AI and machine learning, LDA is used for:
 It provides a **mathematically principled way** to evaluate how well classes are separated in feature space.
 
 
+
+
+Some **real-life examples** are provided in this [PDF document](https://github.com/AminAPNA/Mathematics-for-AI-or-data-science-Krylov-Methods-System-Solving/blob/main/Example_Projects.pdf), and the corresponding **MATLAB codes** are available [here](https://github.com/AminAPNA/Mathematics-for-AI-or-data-science-Krylov-Methods-System-Solving/tree/main/matlab_codes).
 ---
 
